@@ -1,7 +1,7 @@
 sen= [""];
 
 function pa1() {
-    for (let i = 0; i <=6  i++) {
+    for (i = 0; i <=6  i++) {
       sen.push(document.getElementById("p1input"+i).value;
         
     }
@@ -9,7 +9,7 @@ function pa1() {
 }
 
 function pa2() {
-    for (let i = 0; i <=6  i++) {
+    for (i = 0; i <=6  i++) {
       sen.push(document.getElementById("p2input"+i).value;
         
     }
